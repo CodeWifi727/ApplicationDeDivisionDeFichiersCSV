@@ -10,7 +10,7 @@
 
 et voila votre Fichiers CSV est diviser par rapport a la 5eme value 
 
-# si vous voulez changer la valeur 
+# Si vous voulez changer la valeur 
 
 ![image](https://github.com/Simon42-java/ApplicationDeDivisionDeFichiersCSV/assets/77487529/5cf02161-ee73-4b5f-b686-5c9a4c659a65)
 
